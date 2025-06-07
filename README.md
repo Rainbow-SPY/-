@@ -1,6 +1,7 @@
 # 黄杨钿甜全家信息 - 所有信息来自Telegram
 
 ## 黄杨钿甜
+[黄杨钿甜照片](#-黄杨钿甜照片)
 ### 身份证信息
 - **姓名**: 黄杨钿甜
 - **身份证**: 51182220070709002X
@@ -129,13 +130,24 @@
   - **地址**: 罗湖区湖贝路2号新纪元大厦9 01室总经办
   - **地址2**: 深圳市海外国际旅行社有限公司
 
-### Bank
-#### Bank 1
+### 银行卡
+#### 银行卡 1
 - **银行卡号**: 6216034539560834000
 - **银行**: 工商银行
 - **银行卡类别**: 牡丹灵通卡
 
-#### Bank 2
+#### 银行卡 2
 - **银行卡号**: 54562363598375630
 - **银行**: 招商银行
 - **银行卡类别**: 万事达信用卡
+## 黄杨钿甜照片
+#### 黄杨钿甜 和 父亲 杨伟 的合照
+![bf131f5b54f1444ef0db154f2d047079](https://github.com/user-attachments/assets/8655e25e-58f2-4947-8bc2-51f78a1b9ce2)
+![b9867015c15d9acbd033d119afdc739c](https://github.com/user-attachments/assets/a3f32fef-c635-411a-87fb-ba973cdfc0b8)
+#### 黄杨钿甜小时候照片
+![732c4f4da1f61db525f55405659a59ee](https://github.com/user-attachments/assets/c26d64e1-4136-466e-8dea-c5ab225c88bf)
+![c3a0df69a14177d40df72a55f897d0f6](https://github.com/user-attachments/assets/1a05f33c-fa11-4322-95a8-8a58d734c551)
+![0c0172a87c9a8c826425b7b1e6d1fdb9](https://github.com/user-attachments/assets/d5cf306b-ebb9-4dfb-a76d-2512d753784e)
+![e7258fbff2a03c34daa9adcd4bb369a8](https://github.com/user-attachments/assets/c0e536c5-a9f1-4624-b98a-178e305d6eaa)
+![35a347651a9591803cccf6847a2fb60e](https://github.com/user-attachments/assets/bef5c00e-5916-4f14-b06e-44d917072443)
+
